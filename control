@@ -1,0 +1,12 @@
+Nint  30
+Nscan 35
+N  30
+nT 10
+p0b 0.1003
+p1b 0.9362
+p0f 0.1003
+p1f 0.9362
+thetaf2 1 199 200
+filename nq1_kf1_thetaF2_pf2.dat
+thetaf3     1 199 200
+phif3   -199 199 200
